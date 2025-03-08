@@ -44,9 +44,9 @@
 <h2 align="center"> 🔝 Stats 🔝</h2>
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tamayo2&theme=dark) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tamayo2&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamayo2&theme=dark)&nbsp;&nbsp;
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andres&theme=dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Andres&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andres&theme=dark)&nbsp;&nbsp;
 </div>
 
 <div align="center">
