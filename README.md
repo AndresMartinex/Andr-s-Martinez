@@ -1,14 +1,14 @@
 <div id="header" align="center">
     <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" height="400" />
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋,+I'm+Sebastian;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=righteous&color=ffffff&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋,+I'm+Andres;" />
 </div>
 <div align="center">
-    <a href="mailto:sebastiantamacuadrado2005@gmail.com">
+    <a href="mailto:afelipemartinez@jdc.edu.co">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
     </a> <br>
     <h3>MY PORTAFOLIO</h3>
-    <a href="https://juan-tamayo.vercel.app/">
+    <a href="https://Andres-Martinez.vercel.app/">
     <img src="https://img.shields.io/badge/Portafolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white" />
     </a>
 </div>
@@ -22,7 +22,7 @@
 
 ### 🎴 About Me: 
 <br>
-💻 I specialize in: **C#, NEXTJS, REACT.JS, .NET, ANGULAR.JS, PHP, SYMFONY, LARAVEL, NODEJS, DRUPAL, REACT NATIVE, TWIG**
+💻 I specialize in: **C#, NEXTJS, REACT.JS, .NET, ANGULAR.JS, PHP,LARAVEL, NODEJS, DRUPAL, REACT NATIVE, TWIG**
 
 
 <div align="center">
